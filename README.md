@@ -39,7 +39,7 @@ The rest of it is about how much I love [Steven Universe](https://en.wikipedia.o
 8.  Change the name of `rose-quartz.md` to `steven-universe.md`.
 9.  Create a file called `ruby.md` and another called `sapphire.md` and remove `garnet.md` from the root level.
 10. Create a directory called `stevonnie` and _copy_ `steven-universe.md` and `connie.md` into it.
-11. _Move_ `jasper.md` to `bubbled-gems` and `bismuth.md` back to the root level.
+11. _Move_ `jasper.md` to `bubbled-gems`.
 12. Remove the directory `bubbled-gems`.
 13. Move all files (but not directories!) that are on the root level into a new directory called `homeworld`.
 14. And you're done!
