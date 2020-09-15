@@ -43,4 +43,5 @@ The rest of it is about how much I love [Steven Universe](https://en.wikipedia.o
 12. Remove the directory `bubbled-gems`.
 13. Move all files (but not directories!) that are on the root level into a new directory called `homeworld`.
 14. And you're done!
-    ![pearl dropping the mic](https://media.giphy.com/media/3oEdv2e6zgF4ab9IaY/source.gif)
+
+![pearl dropping the mic](https://media.giphy.com/media/3oEdv2e6zgF4ab9IaY/source.gif)
